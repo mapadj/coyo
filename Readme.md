@@ -13,7 +13,7 @@ make migrateup
 ```
 - first create coyo user and api key
 
-- adjust .env file
+- rename .env to .env_BACKUP file and fill in your private data
 
 - run Importer
 ```
